@@ -27,6 +27,10 @@ Pencil Backend is a Node API that uses MongoDB with Mongoose to store questions 
 ## Hosting
 ### Database
 The database is hosted on [Mongo Atlas](https://cloud.mongodb.com/)
+# Login
+Username: ahmedbackend44@gmail.com
+Password: ahmedahmed
+To access the Mongo Atlas
 
 ### App
 The app is hosted on Heroku
